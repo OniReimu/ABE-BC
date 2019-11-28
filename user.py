@@ -1,3 +1,5 @@
+# This script is for those charged with the roles of miners and DP/DU in the testbed.
+
 import hashlib
 import json
 from time import time
