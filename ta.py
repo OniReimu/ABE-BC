@@ -1,3 +1,5 @@
+# This script is for those charged with the roles of TA and miners in the testbed.
+
 import hashlib
 import json
 from time import time
